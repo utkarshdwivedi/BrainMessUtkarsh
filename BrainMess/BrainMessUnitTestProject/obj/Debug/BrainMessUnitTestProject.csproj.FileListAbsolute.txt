@@ -1,0 +1,7 @@
+C:\Users\cdwiveut\Documents\GitHub\Brainmess\code\BrainMess\BrainMessUnitTestProject\bin\Debug\BrainMessUnitTestProject.dll
+C:\Users\cdwiveut\Documents\GitHub\Brainmess\code\BrainMess\BrainMessUnitTestProject\bin\Debug\BrainMessUnitTestProject.pdb
+C:\Users\cdwiveut\Documents\GitHub\Brainmess\code\BrainMess\BrainMessUnitTestProject\bin\Debug\BrainMess.exe
+C:\Users\cdwiveut\Documents\GitHub\Brainmess\code\BrainMess\BrainMessUnitTestProject\bin\Debug\BrainMess.pdb
+C:\Users\cdwiveut\Documents\GitHub\Brainmess\code\BrainMess\BrainMessUnitTestProject\obj\Debug\BrainMessUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\cdwiveut\Documents\GitHub\Brainmess\code\BrainMess\BrainMessUnitTestProject\obj\Debug\BrainMessUnitTestProject.dll
+C:\Users\cdwiveut\Documents\GitHub\Brainmess\code\BrainMess\BrainMessUnitTestProject\obj\Debug\BrainMessUnitTestProject.pdb
