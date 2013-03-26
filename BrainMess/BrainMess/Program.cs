@@ -4,7 +4,7 @@ using System.Globalization;
 
 namespace BrainMess
 {
-    class BrainMessInterpreter
+   public class BrainMessInterpreter
     {
         public List<int> tape;
         public int tapeHead = 0;

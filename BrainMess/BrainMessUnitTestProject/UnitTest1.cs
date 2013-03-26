@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using BrainMess;
 
 
 namespace BrainMessUnitTestProject
@@ -8,35 +10,39 @@ namespace BrainMessUnitTestProject
     public class UnitTest1
     {
         [TestMethod]
-        public void TestForward()
+        public void TestMethodForward()
         {
-          
+            
         }
         [TestMethod]
-        public void TestBackward()
+        public void TestMethodBackward()
         {
 
         }
         [TestMethod]
-        public void TestIncrement()
+        public void TestMethodIncrement()
+        {
+             
+           BrainMessInterpreter obj= new BrainMessInterpreter(){tape =new List<int>(0),tapeHead = 0};
+            obj.Increment();
+
+            Assert.Equals( obj.tape[0], 1);
+        }
+        [TestMethod]
+        public void TestMethodDecrement()
         {
 
         }
         [TestMethod]
-        public void TestDecrement()
-        {
-
-        }
-        //
-        [TestMethod]
-        public void TestLoopForward()
+        public void TestMethodLoopForward()
         {
 
         }
         [TestMethod]
-        public void TestInterprate()
+        public void TestMethodInterprate()
         {
 
         }
+
     }
 }

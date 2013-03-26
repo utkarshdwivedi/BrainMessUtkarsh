@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1F0DA217-98F3-46C9-8984-31FC2C567760}</ProjectGuid>
+    <ProjectGuid>{C486B135-1E17-4EAE-AB1D-4DB3B7E92F25}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BrainMessUnitTestProject</RootNamespace>
@@ -35,7 +35,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="BrainMess">
+    <Reference Include="BrainMess, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\BrainMess\bin\Debug\BrainMess.exe</HintPath>
     </Reference>
     <Reference Include="System" />
